@@ -1,55 +1,65 @@
 <div align="center">
 
-```
- ____  _
-|  _ \(_) __ _ ______ _
-| |_) | |/ _` |_  / _` |
-|  _ <| | (_| |/ / (_| |
-|_| \_\_|\__, /___\__,_|
-            |_|
-```
+<img src="./assets/header.svg" alt="Riqza Muhammad Alfanahal" width="100%" />
 
-**`network engineer` · `game server dev` · `web developer`**
+<br>
 
-[![Website](https://img.shields.io/badge/riqza.my.id-0c0c0c?style=flat-square&logo=googlechrome&logoColor=DB88B0)](https://riqza.my.id)
-[![MTCNA](https://img.shields.io/badge/MTCNA-96%2F100-0c0c0c?style=flat-square&logo=mikrotik&logoColor=2ea44f)](https://riqza.my.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0c0c0c?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/riqza-muhammad-alfanahal)
-[![Instagram](https://img.shields.io/badge/Instagram-0c0c0c?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/riqzabojong_)
+<a href="https://riqza.my.id"><img src="https://img.shields.io/badge/PORTFOLIO-riqza.my.id-ff2e97?style=for-the-badge&labelColor=0a0612&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<img src="https://img.shields.io/badge/MTCNA-96%2F100-00f0ff?style=for-the-badge&labelColor=0a0612&logo=mikrotik&logoColor=white" alt="MTCNA">
+<img src="https://img.shields.io/badge/GTPS_DEV-4%2B_YEARS-ff2e97?style=for-the-badge&labelColor=0a0612" alt="GTPS">
+<img src="https://komarev.com/ghpvc/?username=rqzaa&label=VIEWS&color=00f0ff&style=for-the-badge&labelColor=0a0612" alt="views">
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 </div>
 
----
+## ▓▒░ ABOUT ░▒▓
 
-### `~/neofetch`
-
-```text
-rqzaa@github
-------------
-Name      : Riqza Muhammad Alfanahal
-Handle    : @rqzaa  (RzGans)
-School    : SMK Global Persada (TJKT)
-Cert      : MTCNA — 96/100 (IDN Networking)
-Exp       : 4+ yrs Game Server Dev (2021–2025)
-Intern    : Teknisi Komputer @ Mangga Dua (2026)
-Langs     : C++ · Node.js · JavaScript · Python · TypeScript
-Infra     : MikroTik RouterOS · Linux (Debian/Ubuntu) · VPS
-DB        : SQLite · MySQL
-Site      : https://riqza.my.id
-```
-
-### `~/about.md`
-
-- 👋 Hi, I'm **@rqzaa**
-- 👀 I'm interested in **networking (MikroTik), game servers, dan web dev**
+- 👋 Hi, I'm **@rqzaa** (Riqza Muhammad Alfanahal)
+- 👀 I'm interested in **jaringan komputer (MikroTik), game server development, dan web development**
 - 🌱 I'm currently learning **Linux server/VPS, security, dan web modern**
-- 💞️ I'm looking to collaborate on **project web, automation, dan game server**
+- 💞️ I'm looking to collaborate on **project web, tools/automation, dan game server**
 - 📫 How to reach me: **[riqza.my.id](https://riqza.my.id)**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **Ngoding game server sejak 2021, lalu lulus MTCNA dengan skor 96**
 
-### `~/topology.md`
+Siswa **TJKT** di **SMK Global Persada**, dari fondasi jaringan sampai level aplikasi.
 
-Cara saya melihat sebuah sistem: dari kabel sampai aplikasi.
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+## ▓▒░ PLAYER CARD ░▒▓
+
+<div align="center">
+
+| 🎮 PLAYER | **RIQZA** |
+|:--|:--|
+| **CLASS** | Network Engineer / Game Server Dev |
+| **GUILD** | SMK Global Persada · TJKT |
+| **ACHIEVEMENT** | 🏆 MikroTik MTCNA — 96/100 |
+| **EXPERIENCE** | ⚔️ 4+ tahun GTPS (C++ & Node.js) |
+| **QUEST LOG** | 🔧 PKL Teknisi Komputer, Mangga Dua (2026) |
+| **SIDE QUESTS** | 🌐 4 web project live |
+| **STATUS** | 🟢 Online · Open to collaborate |
+
+</div>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+## ▓▒░ SKILL TREE ░▒▓
+
+<div align="center">
+
+<img src="./assets/skills.svg" width="90%" alt="skills" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=cpp,nodejs,js,ts,python,html,css,sqlite,mysql,linux,debian,ubuntu,git,github,discord&perline=8&theme=dark" alt="stack" />
+
+</div>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+## ▓▒░ NETWORK MAP ░▒▓
 
 ```mermaid
 flowchart TD
@@ -61,52 +71,80 @@ flowchart TD
     V --> W["🌐 Web & API<br/>Node.js · JS"]
     G --> D[("SQLite / MySQL")]
     W --> D
-    style I fill:#0c0c0c,color:#DB88B0,stroke:#DB88B0
-    style R fill:#DB88B0,color:#000
-    style V fill:#2ea44f,color:#fff
+    style I fill:#0a0612,color:#00f0ff,stroke:#00f0ff
+    style R fill:#ff2e97,color:#000
+    style V fill:#00f0ff,color:#000
 ```
 
-### `~/projects`
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-| | Project | Stack |
-|---|---|---|
-| 🌐 | [**rzgans.xyz**](https://rzgans.xyz) — website utama personal | `HTML` `CSS` `JS` |
-| 🤖 | [**ai.rzgans.xyz**](https://ai.rzgans.xyz) — platform berbasis AI | `AI` `JS` `API` |
-| 📁 | [**riqz.my.id**](https://riqz.my.id) — kumpulan seluruh project | `AI` `JS` `API` |
-| 🎮 | [**gacha.rzgans.xyz**](https://gacha.rzgans.xyz) — web game gacha | `JS` `CSS` |
+## ▓▒░ MISSIONS ░▒▓
 
-### `~/log`
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [rzgans.xyz](https://rzgans.xyz)
+Website utama personal.
+<br><sub><code>HTML</code> <code>CSS</code> <code>JS</code></sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [ai.rzgans.xyz](https://ai.rzgans.xyz)
+Platform berbasis AI.
+<br><sub><code>AI</code> <code>JS</code> <code>API</code></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📁 [riqz.my.id](https://riqz.my.id)
+Website seluruh project saya.
+<br><sub><code>AI</code> <code>JS</code> <code>API</code></sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 [gacha.rzgans.xyz](https://gacha.rzgans.xyz)
+Web game gacha interaktif.
+<br><sub><code>Game</code> <code>JS</code> <code>CSS</code></sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+## ▓▒░ TIMELINE ░▒▓
 
 ```text
 2026-01 → 2026-03   PKL Teknisi Komputer, Mangga Dua
                     └─ rakit PC, install OS, perbaikan hardware, maintenance
 
-2025                MTCNA — 96/100, IDN Networking (8 minggu intensif)
+2025                MTCNA 96/100, IDN Networking (8 minggu intensif)
                     └─ RouterOS, firewall, routing, troubleshooting
 
 2021 → 2025         Game Server Dev (GTPS)
                     └─ C++ core, ENet, anti-exploit, Discord bot, VPS & anti-DDoS
 ```
 
-### `~/stack`
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+## ▓▒░ CONNECT ░▒▓
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,nodejs,js,ts,python,html,css,sqlite,mysql,linux,debian,git,github,discord&perline=7&theme=dark" alt="stack" />
+<a href="https://riqza.my.id"><img src="https://img.shields.io/badge/Website-riqza.my.id-ff2e97?style=for-the-badge&labelColor=0a0612&logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://instagram.com/riqzabojong_"><img src="https://img.shields.io/badge/Instagram-@riqzabojong__-ff2e97?style=for-the-badge&labelColor=0a0612&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://tiktok.com/@rqza_"><img src="https://img.shields.io/badge/TikTok-@rqza__-00f0ff?style=for-the-badge&labelColor=0a0612&logo=tiktok&logoColor=white" alt="TikTok"></a>
+<a href="https://linkedin.com/in/riqza-muhammad-alfanahal"><img src="https://img.shields.io/badge/LinkedIn-Riqza-00f0ff?style=for-the-badge&labelColor=0a0612&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://threads.net/@riqzabojong_"><img src="https://img.shields.io/badge/Threads-@riqzabojong__-ff2e97?style=for-the-badge&labelColor=0a0612&logo=threads&logoColor=white" alt="Threads"></a>
 
-</div>
+<br><br>
 
-### `~/contact`
-
-```bash
-$ open https://riqza.my.id            # portfolio
-$ open https://instagram.com/riqzabojong_
-$ open https://tiktok.com/@rqza_
-$ open https://linkedin.com/in/riqza-muhammad-alfanahal
-$ open https://threads.net/@riqzabojong_
-```
-
-<div align="center">
-<br>
 <sub><code>$ echo "Dari fondasi jaringan sampai level aplikasi."</code></sub>
+
 </div>
+
